@@ -1,4 +1,4 @@
-### An Angle on AngularJS - St. Louis JavaScript Meetup 08-15-2013
+### An Angle on AngularJS - St. Louis JavaScript Meetup (08-15-2013)
 
 Part 1 of series of talk providing introduction to AngularJS framework and walks through some of the fundamental concepts & features. 
 
